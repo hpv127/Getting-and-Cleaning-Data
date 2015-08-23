@@ -1,6 +1,6 @@
 # Course project for Getting and Cleaning Data
 # Step 1 to read the test and train data sets
-setwd("C:/Users/I039307/Documents/Hashin/01_Official/40_Data_Scientist/Getting and Cleaning Data/Course_project/UCI HAR Dataset")
+setwd("./Getting and Cleaning Data/Course_project/UCI HAR Dataset")
 
 library(dplyr)
 
