@@ -13,4 +13,5 @@ Create one R script called run_analysis.R that does the following.
 Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 ## Instructions
-Change the setwd() path before running the r script
+- Change the setwd() path before running the r script
+- Read the CodeBook.md for details on the how the script works
